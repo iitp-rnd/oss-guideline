@@ -1,2 +1,2 @@
 # OpenSourceRnD
-IITP_GuidelineForOpenSourceSoftware R&D Projects
+IITP_Guideline For Open Source Software R&D Projects
