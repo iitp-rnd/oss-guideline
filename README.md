@@ -1,4 +1,6 @@
 Open Source Software R&D Projects의 수행에 참고하는 IITP_Guideline입니다. 
+<hr>
+<br>
 
 <보도자료 주요내용>
 
