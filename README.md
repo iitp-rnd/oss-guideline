@@ -56,7 +56,7 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D
   4. 공개SW R&D 과제 점검표
   5. 공개SW R&D의 기대효과
 
-2장. 공개SW　R&D 수행 가이드
+2장. 공개SW R&D 수행 가이드
   1. 공개SW R&D 과제 수행 준비 <br>
     가. 관리 정책 수립	<br>
     나. 수행 조직 구성	<br>
