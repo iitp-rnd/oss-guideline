@@ -14,9 +14,9 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP_Guideline입니
  
 <hr>
 <br>
-본 가이드라인의 목차 구성은 다음과 같다.
+본 가이드라인의 목차 구성은 다음과 같다.<br>
   
-(파트1) 사전 준비단계
+(파트1) 사전 준비단계<br>
 
 □ 가이드의 대상 및 구성
 
@@ -38,7 +38,7 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP_Guideline입니
 
 <hr>
 <br>
-(파트2) 연구수행 실무단계
+(파트2) 연구수행 실무단계<br>
 
 □ 가이드의 대상 및 구성
 
