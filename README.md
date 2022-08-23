@@ -25,7 +25,7 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D
 <br>  
 
 ## 목차
-+ (파트1) 사전 준비단계
++ ### (파트1) 사전 준비단계
 + [가이드의 대상 및 구성](https://github.com/iitp-rnd/oss-guideline/blob/main/target-configuration.md)
 + [용어 설명](https://github.com/iitp-rnd/oss-guideline/blob/main/terms-definition.md)
 + 1장. 공개SW R&D의 개요<br>
@@ -45,9 +45,9 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D
 
 <hr>
 <br>
-(파트2) 연구수행 실무단계<br>
 
-□ 가이드의 대상 및 구성
++ ### (파트2) 연구수행 실무단계<br>
++  가이드의 대상 및 구성
 
 1장. 공개SW R&D의 개요
   1. 공개SW R&D 과제란
