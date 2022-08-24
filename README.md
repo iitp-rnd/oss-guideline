@@ -64,7 +64,7 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D
   - [３. 공개SW R&D 과제 설계](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_2/03.md)<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 공개SW 연구개발과제의 소프트웨어 설계 방식<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 공개SW 연구개발과제의 소프트웨어 재사용에 대한 접근	<br>
-  - [４. 공개SW R&D 과제 구현]()<br>
+  - [４. 공개SW R&D 과제 구현 --------------------------------------- 아래부터 작업 필요]()<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 공개SW R&D 과제의 개발 방법론	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 공개SW R&D 과제의 소프트웨어 형상 관리	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다. 공개SW R&D 과제의 이슈 관리	<br>
