@@ -37,11 +37,9 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D
   - [3. 공개SW R&D 라이선스 정책수립 단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_2/03.md)
   - [4. 공개SW 사용정책 및 절차 수립단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_2/04.md)
   - [5. 공개SW R&D 기술이전 검토사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_2/05.md)
-
-3장. 자주 묻는 질문과 답변(FAQ)	<br>
-
-별첨 1. 공개SW 라이선스 의무사항	<br>
-별첨 2. 사용·결합·통신 방식에 따른 라이선스 의무사항 <br>
++ 3장. [자주 묻는 질문과 답변(FAQ)](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_3/faq.md)	<br>
+  - [별첨 1. 공개SW 라이선스 의무사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_3/annex1.md)	<br>
+  - [별첨 2. 사용·결합·통신 방식에 따른 라이선스 의무사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_3/annex2.md)<br>
 
 <hr>
 <br>
