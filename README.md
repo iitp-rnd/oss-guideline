@@ -32,13 +32,8 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D
   - [1. 일반SW R&D와 공개SW R&D의 차이점](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_1/01.md)
   - [2. 공개SW R&D 개요 및 기대효과](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_1/02.md)
 + 2장. 공개SW R&D 계획수립의 단계별 검토사항
-<<<<<<< HEAD
   - [1. 공개SW R&D 계획수립의 단계별 검토사항 개요](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_2/01.md)
   - [2. 공개SW R&D 추진전략 및 사업모델 수립단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_2/02.md)
-=======
-  - 1. 공개SW R&D 계획수립의 단계별 검토사항 개요
-  - 2. 공개SW R&D 추진전략 및 사업모델 수립단계
->>>>>>> 7977a8626c64eb6cf4be3e6c68fdf879fd9bdee3
   - 3. 공개SW R&D 라이선스 정책수립 단계
   - 4. 공개SW 사용정책 및 절차 수립단계	
   - 5. 공개SW R&D 기술이전 검토사항	
