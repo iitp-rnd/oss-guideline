@@ -45,14 +45,14 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D
 <br>
 
 + ### (파트2) 연구수행 실무단계<br>
-+  가이드의 대상 및 구성
-
-1장. 공개SW R&D의 개요
-  1. 공개SW R&D 과제란
-  2. 일반SW R&D와 공개SW R&D의 차이점
-  3. 공개SW R&D 과제의 성장 단계
-  4. 공개SW R&D 과제 점검표
-  5. 공개SW R&D의 기대효과
++ [가이드의 대상 및 구성](https://github.com/iitp-rnd/oss-guideline/blob/main/target-configuration2.md)
++ [용어 설명](https://github.com/iitp-rnd/oss-guideline/blob/main/terms-definition2.md)
++ 1장. 공개SW R&D의 개요
+  - [1. 공개SW R&D 과제란](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_1/01.md)
+  - [2. 일반SW R&D와 공개SW R&D의 차이점](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_2/02.md)
+  - [3. 공개SW R&D 과제의 성장 단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_2/03.md)
+  - [4. 공개SW R&D 과제 점검표](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_2/04.md)
+  - [5. 공개SW R&D의 기대효과](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_2/05.md)
 
 2장. 공개SW R&D 수행 가이드
   1. 공개SW R&D 과제 수행 준비 <br>
