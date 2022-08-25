@@ -1,5 +1,5 @@
 Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D 실무수행 가이드라인 1.0 입니다. <br>
-+ [가이드라인 목차 바로가기](https:
++ [가이드라인 목차 바로가기](https: )
 <hr>
 <br>
 
