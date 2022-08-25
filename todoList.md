@@ -19,3 +19,9 @@ target : <a id=""></a>
  target : Something Text[^custom Name]
  desc : \[^custom Name]: here description
 ```
+
+<br>
+
+- 이미지 용량 최적화
+- assets 폴더구조 변경 + add part1
+
