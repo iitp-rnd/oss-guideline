@@ -10,5 +10,5 @@
 
 >라이선스, 특허, 보안취약점 관리<br>
 
-![그림 1](./assets/part2/image1.png "그림 1. 공개SW R&D 수행 가이드라인의 구성")
+![그림 1](/assets/part2/image1.png "그림 1. 공개SW R&D 수행 가이드라인의 구성")
 
