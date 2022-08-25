@@ -14,10 +14,11 @@ target : <a id=""></a>
 
 <br>
 
-- 각주
+- 각주 `깃허브에서는 각주 제공을 하지 않음`
+
 ```
- target : Something Text[^custom Name]
- desc : \[^custom Name]: here description
+ 각주를 적용할 텍스트<sup id="a1">[1](#footnote1)</sup>입니다.
+ <b id="footnote1">1</b> 각주의 내용입니다. [↩](#a1)n
 ```
 
 <br>
