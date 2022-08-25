@@ -1,5 +1,5 @@
 Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D 실무수행 가이드라인 1.0 입니다. <br>
-가이드라인 목차 바로가기
+  - [가이드라인 목차 바로가기](https:
 <hr>
 <br>
 
@@ -41,7 +41,7 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D
 + 3장. [자주 묻는 질문과 답변(FAQ)](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_3/faq.md)	<br>
   - [별첨 1. 공개SW 라이선스 의무사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_3/annex1.md)	<br>
   - [별첨 2. 사용·결합·통신 방식에 따른 라이선스 의무사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_3/annex2.md)<br>
-  참고문헌
+  - [참고문헌](https:
 
 <hr>
 
@@ -92,7 +92,7 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D
   - [부록 1. 기여자 행동 강령 규약의 예]()
   - [부록 2. 기여자 라이선스 동의서 예]()
   - [부록 3. 기여자 가이드라인 문서 예]()
-  참고문헌
+  - [참고문헌](https:
 
 <br>
 CONTRIBUTING<br>
