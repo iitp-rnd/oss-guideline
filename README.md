@@ -95,7 +95,7 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D
 + [참고문헌](https: )
 
 <br>
-CONTRIBUTING<br>
++ ### CONTRIBUTING<br>
 본 가이드라인의 작성 내용은 오픈소스 개발 방법을 적용하여 여러분의 기여를 통해 개선해 나갑니다.<br>
 - 일반적인 GitHub Flow에 따라 수정 사항 Commit을 만들어서 Pull Request해 주세요.<br>
 - 또는, 이슈를 생성하여 의견을 남겨주세요. 간단한 의견이라도 가이드라인 1.0 개선에 도움이 됩니다.<br>
