@@ -67,17 +67,17 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D
   - [３. 공개SW R&D 과제 설계](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_2/03.md)<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 공개SW 연구개발과제의 소프트웨어 설계 방식<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 공개SW 연구개발과제의 소프트웨어 재사용에 대한 접근	<br>
-  - [４. 공개SW R&D 과제 구현 --------------------------------------- 아래부터 작업 필요]()<br>
+  - [４. 공개SW R&D 과제 구현](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_2/04.md)<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 공개SW R&D 과제의 개발 방법론	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 공개SW R&D 과제의 소프트웨어 형상 관리	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다. 공개SW R&D 과제의 이슈 관리	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;라. 공개SW R&D 과제의 릴리즈 관리	<br>
-  - [５. 공개SW R&D 과제 검증]()<br>
+  - [５. 공개SW R&D 과제 검증](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_2/05.md)<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 공개SW R&D 과제의 테스트	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 공개SW R&D 과제의 성과지표 관리	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다. 공개SW R&D 과제의 라이선스 검증	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;라. 공개SW R&D 과제의 보안 취약점 검사	<br>
-  - [６. 공개SW R&D 과제의 커뮤니티 관리]()<br>
+  - [６. 공개SW R&D 과제의 커뮤니티 관리](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_2/06.md)<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 공개SW 커뮤니티의 이해	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 커뮤니티 거버넌스	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다. 커뮤니티 구성원의 고려사항	<br>
