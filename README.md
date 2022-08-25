@@ -28,56 +28,56 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D
 
 ## 목차
 + ### (파트1) 사전 준비단계
-+ [가이드의 대상 및 구성](https://github.com/iitp-rnd/oss-guideline/blob/main/target-configuration.md)
-+ [용어 설명](https://github.com/iitp-rnd/oss-guideline/blob/main/terms-definition.md)
++ [가이드의 대상 및 구성](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/target-configuration.md)
++ [용어 설명](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/terms-definition.md)
 + 1장. 공개SW R&D의 개요<br>
-  - [1. 일반SW R&D와 공개SW R&D의 차이점](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_1/01.md)
-  - [2. 공개SW R&D 개요 및 기대효과](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_1/02.md)
+  - [1. 일반SW R&D와 공개SW R&D의 차이점](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/01/01.md)
+  - [2. 공개SW R&D 개요 및 기대효과](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/01/02.md)
 + 2장. 공개SW R&D 계획수립의 단계별 검토사항
-  - [1. 공개SW R&D 계획수립의 단계별 검토사항 개요](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_2/01.md)
-  - [2. 공개SW R&D 추진전략 및 사업모델 수립단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_2/02.md)
-  - [3. 공개SW R&D 라이선스 정책수립 단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_2/03.md)
-  - [4. 공개SW 사용정책 및 절차 수립단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_2/04.md)
-  - [5. 공개SW R&D 기술이전 검토사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_2/05.md)
-+ 3장. [자주 묻는 질문과 답변(FAQ)](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_3/faq.md)	<br>
-+ [별첨 1. 공개SW 라이선스 의무사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_3/annex1.md)	<br>
-+ [별첨 2. 사용·결합·통신 방식에 따른 라이선스 의무사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1_3/annex2.md)<br>
+  - [1. 공개SW R&D 계획수립의 단계별 검토사항 개요](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/01.md)
+  - [2. 공개SW R&D 추진전략 및 사업모델 수립단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/02.md)
+  - [3. 공개SW R&D 라이선스 정책수립 단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/03.md)
+  - [4. 공개SW 사용정책 및 절차 수립단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/04.md)
+  - [5. 공개SW R&D 기술이전 검토사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/05.md)
++ 3장. [자주 묻는 질문과 답변(FAQ)](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/03/faq.md)	<br>
++ [별첨 1. 공개SW 라이선스 의무사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/03/annex1.md)	<br>
++ [별첨 2. 사용·결합·통신 방식에 따른 라이선스 의무사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/03/annex2.md)<br>
 + [참고문헌](https: 
 
 <hr>
 
 + ### (파트2) 연구수행 실무단계<br>
-+ [가이드의 대상 및 구성](https://github.com/iitp-rnd/oss-guideline/blob/main/target-configuration2.md)
-+ [용어 설명](https://github.com/iitp-rnd/oss-guideline/blob/main/terms-definition2.md)
++ [가이드의 대상 및 구성](https://github.com/iitp-rnd/oss-guideline/blob/main/part2/target-configuration2.md)
++ [용어 설명](https://github.com/iitp-rnd/oss-guideline/blob/main/part2/terms-definition2.md)
 + 1장. 공개SW R&D의 개요
-  - [1. 공개SW R&D 과제란](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_1/01.md)
-  - [2. 일반SW R&D와 공개SW R&D의 차이점](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_1/02.md)
-  - [3. 공개SW R&D 과제의 성장 단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_1/03.md)
-  - [4. 공개SW R&D 과제 점검표](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_1/04.md)
-  - [5. 공개SW R&D의 기대효과](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_1/05.md)
+  - [1. 공개SW R&D 과제란](https://github.com/iitp-rnd/oss-guideline/blob/main/part2/01/01.md)
+  - [2. 일반SW R&D와 공개SW R&D의 차이점](https://github.com/iitp-rnd/oss-guideline/blob/main/part2/01/02.md)
+  - [3. 공개SW R&D 과제의 성장 단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part2/01/03.md)
+  - [4. 공개SW R&D 과제 점검표](https://github.com/iitp-rnd/oss-guideline/blob/main/part2/01/04.md)
+  - [5. 공개SW R&D의 기대효과](https://github.com/iitp-rnd/oss-guideline/blob/main/part2/01/05.md)
 + 2장. 공개SW R&D 수행 가이드
-  - [１. 공개SW R&D 과제 수행 준비](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_2/01.md)<br>
+  - [１. 공개SW R&D 과제 수행 준비](https://github.com/iitp-rnd/oss-guideline/blob/main/part2/02/01.md)<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 관리 정책 수립<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 수행 조직 구성<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다. 개발환경 구축<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;라. 참여연구원 교육
-  - [２. 공개SW R&D 과제 분석](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_2/02.md)<br>
+  - [２. 공개SW R&D 과제 분석](https://github.com/iitp-rnd/oss-guideline/blob/main/part2/02/02.md)<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 요구분석 및 조사<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 공개SW 분석 및 평가
-  - [３. 공개SW R&D 과제 설계](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_2/03.md)<br>
+  - [３. 공개SW R&D 과제 설계](https://github.com/iitp-rnd/oss-guideline/blob/main/part2/02/03.md)<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 공개SW 연구개발과제의 소프트웨어 설계 방식<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 공개SW 연구개발과제의 소프트웨어 재사용에 대한 접근	<br>
-  - [４. 공개SW R&D 과제 구현](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_2/04.md)<br>
+  - [４. 공개SW R&D 과제 구현](https://github.com/iitp-rnd/oss-guideline/blob/main/part2/02/04.md)<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 공개SW R&D 과제의 개발 방법론	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 공개SW R&D 과제의 소프트웨어 형상 관리	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다. 공개SW R&D 과제의 이슈 관리	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;라. 공개SW R&D 과제의 릴리즈 관리	<br>
-  - [５. 공개SW R&D 과제 검증](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_2/05.md)<br>
+  - [５. 공개SW R&D 과제 검증](https://github.com/iitp-rnd/oss-guideline/blob/main/part2/02/05.md)<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 공개SW R&D 과제의 테스트	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 공개SW R&D 과제의 성과지표 관리	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다. 공개SW R&D 과제의 라이선스 검증	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;라. 공개SW R&D 과제의 보안 취약점 검사	<br>
-  - [６. 공개SW R&D 과제의 커뮤니티 관리](https://github.com/iitp-rnd/oss-guideline/blob/main/part2_2/06.md)<br>
+  - [６. 공개SW R&D 과제의 커뮤니티 관리](https://github.com/iitp-rnd/oss-guideline/blob/main/part2/02/06.md)<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 공개SW 커뮤니티의 이해	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 커뮤니티 거버넌스	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다. 커뮤니티 구성원의 고려사항	<br>
