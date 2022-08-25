@@ -89,7 +89,7 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;자. 모니터링	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;차. 홍보	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;카. 문서화
-+ 3장. 자주 묻는 질문과 답변(FAQ)
++ 3장. 자주 묻는 질문과 답변(FAQ) ★★★★★ 작업 시작 예정
 + [부록 1. 기여자 행동 강령 규약의 예]()
 + [부록 2. 기여자 라이선스 동의서 예]()
 + [부록 3. 기여자 가이드라인 문서 예]()
