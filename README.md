@@ -36,11 +36,21 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 공개SW R&D의 개요<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 공개SW R&D의 기대효과<br>
 + 2장. 공개SW R&D 계획수립의 단계별 검토사항
-  - [1. 공개SW R&D 계획수립의 단계별 검토사항 개요](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/01.md)
-  - [2. 공개SW R&D 추진전략 및 사업모델 수립단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/02.md)
-  - [3. 공개SW R&D 라이선스 정책수립 단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/03.md)
+  - [1. 공개SW R&D 계획수립의 단계별 검토사항 개요](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/01.md)<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 공개SW R&D 계획수립의 검토 단계<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 공개SW R&D 계획수립의 검토 절차<br>
+  - [2. 공개SW R&D 추진전략 및 사업모델 수립단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/02.md)<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 공개SW R&D 추진전략 수립<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 공개SW R&D 사업모델<br>
+  - [3. 공개SW R&D 라이선스 정책수립 단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/03.md)<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 공개SW R&D에 적용할 공개SW 라이선스 분류기준<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 사업화를 위한 공개SW R&D의 사업모델에 따른 라이선스 정책검토<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다. 비영리 목적의 공개SW R&D의 라이선스 정책검토<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;라. 공개SW R&D 대표 라이선스 및 호환 라이선스 정책 검토<br>
   - [4. 공개SW 사용정책 및 절차 수립단계](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/04.md)
-  - [5. 공개SW R&D 기술이전 검토사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/05.md)
+  - [5. 공개SW R&D 기술이전 검토사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/05.md)<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 공개 R&D 결과물의 기술이전 유형<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 공개 SW R&D 결과물의 기술이전 유형별 검토사항<br>
 + 3장. [자주 묻는 질문과 답변(FAQ)](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/03/faq.md)	<br>
 + [별첨 1. 공개SW 라이선스 의무사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/03/annex1.md)	<br>
 + [별첨 2. 사용·결합·통신 방식에 따른 라이선스 의무사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/03/annex2.md)<br>
