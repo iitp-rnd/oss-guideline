@@ -60,7 +60,7 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D
 + 3장. [자주 묻는 질문과 답변(FAQ)](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/03/faq.md)	<br>
 + [별첨 1. 공개SW 라이선스 의무사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/03/annex1.md)	<br>
 + [별첨 2. 사용·결합·통신 방식에 따른 라이선스 의무사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/03/annex2.md)<br>
-+ [참고문헌](https: 
++ [참고문헌](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/03/refList.md)
 
 <hr>
 
