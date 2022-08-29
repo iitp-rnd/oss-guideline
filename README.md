@@ -29,6 +29,7 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D
  - 또한, 파트별로 자주 묻는 질문을 FAQ로 구성하여 설명하고 있습니다.<br>
     
 <br>
++ [책자 안내]
 <a id="part1" href="#">
 &nbsp;&nbsp;+ 공개SW R&D 과제를 준비하는 과정에서 어떤 항목을 검토해야 하는지 궁금한 사항은 “[파트 1] 2장 1. 공개SW R&D 계획수립의 단계별 검토사항 개요”(https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/01.md)를 참고하세요.<br>
 &nbsp;&nbsp;+ 프로젝트에 적합한 오픈소스 라이선스를 어떻게 결정해야 하는지 궁금한 사항은 “[파트 1] 2장 3. 2단계 공개SW R&D 라이선스 정책수립 단계”(https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/03.md)를 살펴보세요.<br>
