@@ -5,8 +5,8 @@
 Open Source Software R&D Projects의 수행에 참고하는 IITP의 공개SW R&D 실무수행 가이드라인 1.0 입니다. <br>
 + [가이드라인 목차 바로가기](#content)
 + [IITP_OSS-Guideline_V1.0.1 화일 다운로드](https://github.com/iitp-rnd/oss-guideline/blob/main/IITP_OSS-Guideline_V1.0.1.pdf)
-+ [정보통신기획평가원(IITP 홈페이지 공개자료실)에서 화일 다운로드](https://www.iitp.kr/kr/1/knowledge/openReference.it) 
-  * 에러 발생시, IITP 홈페이지(https://www.iitp.kr) 메인-공개자료실로 이동후 다운로드(목록 48번)
++ [정보통신기획평가원(IITP 홈페이지 공개자료실)에서 화일 다운로드](https://www.iitp.kr/kr/1/knowledge/openReference.it) (목록 48번)
+  * 에러 발생시, IITP 홈페이지(https://www.iitp.kr) 메인-공개자료실로 이동후 다운로드
 <hr>
 <br>
 
