@@ -69,7 +69,7 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP 공개SW R&D �
   - [5. 공개SW R&D 기술이전 검토사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/02/05.md)<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가. 공개 R&D 결과물의 기술이전 유형<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 공개 SW R&D 결과물의 기술이전 유형별 검토사항<br>
-+ 3장. [자주 묻는 질문과 답변(FAQ)](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/03/faq.md)	<br>
++ [3장. 자주 묻는 질문과 답변(FAQ)](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/03/faq.md)	<br>
 + [별첨 1. 공개SW 라이선스 의무사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/03/annex1.md)	<br>
 + [별첨 2. 사용·결합·통신 방식에 따른 라이선스 의무사항](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/03/annex2.md)<br>
 + [참고문헌](https://github.com/iitp-rnd/oss-guideline/blob/main/part1/03/refList.md)
