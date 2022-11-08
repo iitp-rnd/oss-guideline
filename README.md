@@ -115,7 +115,7 @@ Open Source Software R&D Projects의 수행에 참고하는 IITP 공개SW R&D �
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;마. 기여자 가이드라인	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;바. 마일스톤 및 로드맵 공유	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;사. 협력기업 관리	<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;아. 지적 재산권 관리	<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;아. 지식 재산권 관리	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;자. 모니터링	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;차. 홍보	<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;카. 문서화
